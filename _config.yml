@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo1.svg'
 locale:             ar_SY
-url:                https://mulham.github.io
+url:                https://ayman9hd.github.io
 
 # Jekyll
 permalink:          /:title/
